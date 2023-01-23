@@ -14,7 +14,7 @@
     int_value=float(int_value)  
 
 ## Projects I did today:
-- Program to add the digits of a 2-digit number  
+- A program to add the digits of a 2-digit number  
 - A Band Name Generator program with the data including your city name and your pet's name  
 &nbsp;  
-and [more..](100DaysOfCode-Python/Day1)
+and [more..](../Day1/)
