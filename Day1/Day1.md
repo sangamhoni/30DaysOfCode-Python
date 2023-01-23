@@ -17,4 +17,4 @@
 - Program to add the digits of a 2-digit number  
 - A Band Name Generator program with the data including your city name and your pet's name  
 &nbsp;  
-and [more..](Day1)
+and [more..](100DaysOfCode-Python/Day1)
