@@ -11,8 +11,7 @@
 - Data Types  
 - Numbers  
 - Operations  
-- Type Conversions  
-- f-Strings  
+- Type Conversions
 
 &nbsp;  
 More details [here](Day1/Day1.md).  
