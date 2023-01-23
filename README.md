@@ -5,7 +5,16 @@
 
 
 ### Day 1  
-- 
+- Printing  
+- Manipulating  
+- Debuging  
+- String Manipulation  
+- Variables  
+- Data Types  
+- Numbers  
+- Operations  
+- Type Conversions  
+- f-Strings  
 
 &nbsp;  
 More details [here](Day1/Day1.md).  
