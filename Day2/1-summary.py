@@ -25,4 +25,5 @@ print(4 != 2)   #gives boolean if true or not
 # A and B, C or D, not E
 
 # upper and lower function
+strname="Sangam Subedi"
 name_lower=strname.lower()
