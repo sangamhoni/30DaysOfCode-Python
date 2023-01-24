@@ -11,7 +11,6 @@
 - Data Types  
 - Numbers  
 - Operations  
-- Type Conversions
 
 &nbsp;  
 More details [here](Day1/Day1.md).  
@@ -20,7 +19,11 @@ More details [here](Day1/Day1.md).
 
 ### Day 2  
 
--   
+- Type Conversions  
+- f-Strings  
+- Subscripting  
+- If Statements  
+- Logical Operators  
 
 &nbsp;  
 More details [here](Day2/Day2.md).  
