@@ -1,20 +1,16 @@
 ## What I learned today:  
+- I learned about functions: round(float_num, dec_place)  
+- How print(f"...{variable}") works  
+- Subscripting - pulling out individual letters from a string  
+&nbsp;  
+I also learned a bit about git rebase command on how it works, and fixed my .gitignore files which actually took me a lot of time to figure it out  
 
-- Basic functions such as print, input, etc  
-- \n character to change the line  
-- Different errors:   
-    Indentation error and syntax errors  
-- Taking input and printing in a single line  
-- Functions such as capitalize, len  
-    string.capitalize()  
-    len(string)
-- Taking input in new line  
-- Type conversion  
-    str_value=int(str_value)  
-    int_value=float(int_value)  
+## Projects I did today:  
+- A tip calculator including tip percentage and bill-splits  
+- A program to add digits of a 2-digit number, but thru type conversion  
+- A program to see if the user fits the criteria to ride a rollercoaster or not  
+- A BMI Calculator program which calculates your BMI and tells you which category you fall in  
+- A program to check if a given year is leap year or not
 
-## Projects I did today:
-- A program to add the digits of a 2-digit number  
-- A Band Name Generator program with the data including your city name and your pet's name  
 &nbsp;  
 and [more..](../Day2/)
