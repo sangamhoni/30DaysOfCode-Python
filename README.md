@@ -32,7 +32,11 @@ More details [here](Day2/Day2.md).
 
 ### Day 3  
 
--  
+- Modules  
+- Randomisation  
 
 &nbsp;  
 More details [here](Day3/Day3.md).  
+
+#  
+
