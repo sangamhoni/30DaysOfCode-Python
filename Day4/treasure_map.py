@@ -15,6 +15,9 @@ elif (row==2):
     row2[column-1]="X "
 else:
     row3[column-1]="X "
-    
+
+# OR
+# selected_row=map[row-1]
+# selected_row[horizontal-1]="X "
 
 print(f"{row1}\n{row2}\n{row3}")
