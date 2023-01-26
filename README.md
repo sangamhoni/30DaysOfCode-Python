@@ -42,7 +42,10 @@ More details [here](Day3/Day3.md).
 
 ### Day 4  
 
--  
+- Manipulating list items  
+- Editing a list  
+- Nested list  
+- More funcitons with random modules  
 
 &nbsp;  
 More details [here](Day4/Day4.md).  
