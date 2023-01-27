@@ -25,4 +25,4 @@ password=""
 for pw_char in pw_list:
     password+=pw_char
 
-print(f"Your password is {password}")
+print(f"Your new password is {password}")
