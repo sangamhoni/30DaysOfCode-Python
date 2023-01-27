@@ -19,6 +19,8 @@ fruits_veggies=[fruits, vegetables]
 
 ### Notes:  
 - a single list can contain different data types  
+- to add something in a list, either use list_name+= data OR list_name.append(data)  
+
 
 
 
