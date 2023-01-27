@@ -54,6 +54,9 @@ More details [here](Day4/Day4.md).
 
 ### Day 5  
 
+- Loops  
+- Range  
+- Code Blocks  
 - 
 
 &nbsp;  
