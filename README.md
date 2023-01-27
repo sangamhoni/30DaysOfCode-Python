@@ -59,6 +59,13 @@ More details [here](Day4/Day4.md).
 - Code Blocks  
 
 &nbsp;  
-More details [here](Day4/Day5.md).  
+More details [here](Day5/Day5.md).  
 
 #  
+
+### Day 6  
+
+- 
+
+&nbsp;  
+More details [here](Day6/Day6.md).  
