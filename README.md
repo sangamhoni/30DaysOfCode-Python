@@ -65,7 +65,11 @@ More details [here](Day5/Day5.md).
 
 ### Day 6  
 
-- 
+- While loops  
+- Functions  
+- Code Blocks  
+- While Loops  
+- Link between different files  
 
 &nbsp;  
 More details [here](Day6/Day6.md).  
