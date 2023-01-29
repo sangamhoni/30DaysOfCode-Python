@@ -78,7 +78,10 @@ More details [here](Day6/Day6.md).
 
 ### Day 7  
 
--  
+- input with functions  
+- argument  
+- parameters  
+- more functions related to lists   
 
 &nbsp;  
 More details [here](Day7/Day7.md).  
