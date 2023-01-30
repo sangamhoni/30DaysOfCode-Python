@@ -90,7 +90,9 @@ More details [here](Day7/Day7.md).
 
 ### Day 8  
 
--  
+- dictionaries  
+- its difference compared to lists  
+- manipulating dictionary items   
 
 &nbsp;  
 More details [here](Day8/Day8.md). 
