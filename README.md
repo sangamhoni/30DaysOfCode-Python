@@ -93,7 +93,17 @@ More details [here](Day7/Day7.md).
 - dictionaries  
 - its difference compared to lists  
 - manipulating dictionary items  
-- nesting list with dictionary   
 
 &nbsp;  
 More details [here](Day8/Day8.md).  
+
+#  
+
+### Day 9  
+
+- more on dictionaries  
+- nesting list with dictionary   
+- workflow of dictionary inside a list and vice-versa  
+
+&nbsp;  
+More details [here](Day9/Day9.md).  
