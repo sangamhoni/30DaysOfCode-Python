@@ -112,7 +112,13 @@ More details [here](Day9/Day9.md).
 
 ### Day 10  
 
-- 
+- Function with outputs  
+- Using functions inside another function  
+- Docstrings  
+- Storing functions indide a dictionary  
+- Using functions with dictionary values  
+- Recursion  
+
 
 &nbsp;  
 More details [here](Day10/Day10.md).  
