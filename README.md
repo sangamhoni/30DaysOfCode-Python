@@ -126,7 +126,7 @@ More details [here](Day10/Day10.md).
 
 ### Day 11  
 
-- 
+- A complete revision of what I've learned till today  
 
 &nbsp;  
 More details [here](Day11/Day11.md).  
