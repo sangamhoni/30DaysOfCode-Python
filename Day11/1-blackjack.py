@@ -36,29 +36,16 @@ def play_game():
         if (user_sum==21):
             print(f"    Computer's second card: {computer_cards[1]}")
             print("\n Draw! The computer also got a Blackjack")
-            # play_again=input("Do you want to play Blackjack? (Y/N): ").lower()
-            # if play_again=='y':
-            #     os.system('cls')
-            #     play_game()
             play_again()
         else:
             print(f"    Computer's second card: {computer_cards[1]}")
             print("\n Computer won with a Blackjack!")
-            # play_again=input("Do you want to play Blackjack? (Y/N): ").lower()
-            # if play_again=='y':
-            #     os.system('cls')
-            #     play_game()
             play_again()
 
     elif (user_sum==21):
         print(f"    Computer's second card: {computer_cards[1]}")
         print("\n You won with a Blackjack!")
-        # play_again=input("Do you want to play Blackjack? (Y/N): ").lower()
-        # if play_again=='y':
-        #     os.system('cls')
-        #     play_game()
         play_again()
-
 
     user_draw=False
     another_card='y'
@@ -79,8 +66,6 @@ def play_game():
         if another_card=='y':
             user_draw=True
             user_cards.append(random.choice(cards))
-            # print((user_cards))
-            # print(sum(user_cards))
             user_sum=sum(user_cards)
         else:
             while (computer_sum<17):
