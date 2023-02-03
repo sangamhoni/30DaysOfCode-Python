@@ -133,9 +133,11 @@ More details [here](Day11/Day11.md).
 
 #  
 
-### Day 11  
+### Day 12  
 
-- 
+- Scope  
+- Local and Global variables  
+- Do's and dont's of a local variable  
 
 &nbsp;  
 More details [here](Day12/Day12.md).  
