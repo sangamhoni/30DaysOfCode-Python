@@ -146,7 +146,7 @@ More details [here](Day12/Day12.md).
 
 ### Day 13  
 
-- 
+- Debugging  
 
 &nbsp;  
 More details [here](Day13/Day13.md).  
