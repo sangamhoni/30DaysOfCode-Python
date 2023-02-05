@@ -155,7 +155,8 @@ More details [here](Day13/Day13.md).
 
 ### Day 14  
 
-- 
+- Using local and global variables  
+- IDE setup  
 
 &nbsp;  
 More details [here](Day14/Day14.md).  
