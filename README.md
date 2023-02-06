@@ -165,7 +165,9 @@ More details [here](Day14/Day14.md).
 
 ### Day 15  
 
-- 
+- general introduction to OOP  
+- using built in packages  
+- adding external packages to your ide  
 
 &nbsp;  
 More details [here](Day15/Day15.md).  
