@@ -176,7 +176,9 @@ More details [here](Day15/Day15.md).
 
 ### Day 16  
 
-- 
+- making classes  
+- using objects, methods and attributes in the class  
+- initialization  
 
 &nbsp;  
 More details [here](Day16/Day16.md).  
