@@ -187,7 +187,9 @@ More details [here](Day16/Day16.md).
 
 ### Day 17  
 
-- 
+- working with classes and objects  
+- designing methods and attributes as per requirements  
+- more understanding of OOP in general  
 
 &nbsp;  
 More details [here](Day17/Day17.md).  
