@@ -198,7 +198,8 @@ More details [here](Day17/Day17.md).
 
 ### Day 18  
 
-- 
+- turtle graphics  
+- tuples  
 
 &nbsp;  
 More details [here](Day18/Day18.md).  
