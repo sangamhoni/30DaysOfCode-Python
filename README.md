@@ -207,7 +207,11 @@ More details [here](Day18/Day18.md).
 
 ### Day 19  
 
-- 
+- Turtle Event Listeners  
+- Higher order functions  
+- Indepth on turtle  
+- Screen tracer on turtle  
+- Working with classes  
 
 &nbsp;  
 More details [here](Day19/Day19.md).  
