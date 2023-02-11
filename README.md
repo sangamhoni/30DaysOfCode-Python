@@ -213,6 +213,7 @@ More details [here](Day18/Day18.md).
 - Indepth on turtle  
 - Screen tracer on turtle  
 - Working with classes  
+- Snake game (incomplete)  
 
 &nbsp;  
 More details [here](Day19/Day19.md).  
@@ -221,7 +222,9 @@ More details [here](Day19/Day19.md).
 
 ### Day 20  
 
-- 
+- Inheritance (OOP)  
+- Slicing  
+- finishing the snake game
 
 &nbsp;  
 More details [here](Day20/Day20.md).  
