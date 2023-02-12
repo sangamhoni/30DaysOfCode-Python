@@ -228,11 +228,12 @@ More details [here](Day19/Day19.md).
 
 &nbsp;  
 More details [here](Day20/Day20.md).  
+
 #  
 
 ### Day 21  
 
-- More on turtle graphics  
+- More on turtle graphics including OOP classes and objects  
 
 &nbsp;  
 More details [here](Day21/Day21.md).  
