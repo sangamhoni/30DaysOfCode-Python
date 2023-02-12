@@ -232,7 +232,7 @@ More details [here](Day20/Day20.md).
 
 ### Day 21  
 
-- 
+- More on turtle graphics  
 
 &nbsp;  
 More details [here](Day21/Day21.md).  
