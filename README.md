@@ -234,6 +234,7 @@ More details [here](Day20/Day20.md).
 ### Day 21  
 
 - More on turtle graphics including OOP classes and objects  
+- started creating Pong game (not completed yet)  
 
 &nbsp;  
 More details [here](Day21/Day21.md).  
@@ -242,7 +243,7 @@ More details [here](Day21/Day21.md).
 
 ### Day 22  
 
-- 
+- Completed the Pong game that was incomplete since the last day
 
 &nbsp;  
 More details [here](Day22/Day22.md).  
