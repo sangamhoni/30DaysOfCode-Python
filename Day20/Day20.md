@@ -8,4 +8,4 @@
 - Completed the Snake game that was due from yesterday. Added score and all the conditioning random places for food, wall limits, collision with tails, etc.  
                  
 &nbsp;  
-and [more..](../Day20)  
+and [more..](../Day20)   
