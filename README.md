@@ -252,7 +252,7 @@ More details [here](Day22/Day22.md).
 
 ### Day 23  
 
-- 
+- Made a Turtle crossing game  
 
 &nbsp;  
 More details [here](Day23/Day23.md).  
