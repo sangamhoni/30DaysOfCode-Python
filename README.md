@@ -261,7 +261,8 @@ More details [here](Day23/Day23.md).
 
 ### Day 24  
 
-- 
+- File handling  
+- Storing, Accessing, Changing file and more  
 
 &nbsp;  
 More details [here](Day24/Day24.md).  
