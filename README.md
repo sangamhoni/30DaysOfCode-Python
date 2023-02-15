@@ -246,7 +246,7 @@ More details [here](Day21/Day21.md).
 - Completed the Pong game that was incomplete since the last day
 
 &nbsp;  
-More details [here](Day22/Day22.md).    
+More details [here](Day22/Day22.md).Day    
 
 #  
 
@@ -255,4 +255,13 @@ More details [here](Day22/Day22.md).
 - Made a Turtle crossing game  
 
 &nbsp;  
-More details [here](Day23/Day23.md).  
+More details [here](Day23/Day23.md).      
+
+#  
+
+### Day 24  
+
+- 
+
+&nbsp;  
+More details [here](Day24/Day24.md).  
