@@ -265,4 +265,13 @@ More details [here](Day23/Day23.md).
 - Storing, Accessing, Changing file and more  
 
 &nbsp;  
-More details [here](Day24/Day24.md).  
+More details [here](Day24/Day24.md).      
+
+#  
+
+### Day 25  
+
+- 
+
+&nbsp;  
+More details [here](Day25/Day25.md).  
