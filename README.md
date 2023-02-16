@@ -271,7 +271,8 @@ More details [here](Day24/Day24.md).
 
 ### Day 25  
 
-- 
+- reading .csv files  
+- pandas general introduction  
 
 &nbsp;  
 More details [here](Day25/Day25.md).  
