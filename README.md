@@ -287,4 +287,13 @@ More details [here](Day25/Day25.md).
 - using csv data  
 
 &nbsp;  
-More details [here](Day26/Day26.md).  
+More details [here](Day26/Day26.md).        
+
+#  
+
+### Day 27  
+
+- 
+
+&nbsp;  
+More details [here](Day27/Day27.md).  
