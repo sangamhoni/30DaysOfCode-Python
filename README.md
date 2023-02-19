@@ -281,7 +281,10 @@ More details [here](Day25/Day25.md).
 
 ### Day 26  
 
-- 
+- more on pandas  
+- accessing particular rows and columns  
+- wriitng to a new file as a csv format  
+- using csv data  
 
 &nbsp;  
 More details [here](Day26/Day26.md).  
