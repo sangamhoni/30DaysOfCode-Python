@@ -293,7 +293,8 @@ More details [here](Day26/Day26.md).
 
 ### Day 27  
 
-- 
+- List comprehension  
+- Dictionary comprehension  
 
 &nbsp;  
 More details [here](Day27/Day27.md).  
