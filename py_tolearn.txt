@@ -1,0 +1,6 @@
+PY to learn:
+
+DATA SCIENCE
+	pandas
+	numpy
+	matplotIB
