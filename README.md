@@ -297,4 +297,13 @@ More details [here](Day26/Day26.md).
 - Dictionary comprehension  
 
 &nbsp;  
-More details [here](Day27/Day27.md).  
+More details [here](Day27/Day27.md).          
+
+#  
+
+### Day 28  
+
+- 
+
+&nbsp;  
+More details [here](Day28/Day28.md).  
