@@ -4,3 +4,7 @@ DATA SCIENCE
 	pandas
 	numpy
 	matplotIB
+
+EDITORS:
+jupyter
+jupyter lab
