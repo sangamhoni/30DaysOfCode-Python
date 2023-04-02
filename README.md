@@ -303,7 +303,11 @@ More details [here](Day27/Day27.md).
 
 ### Day 28  
 
-- 
+- Tkinter  
+- Default Arguments  
+- Advanced Arguments  
+- *Args and **Kwargs  
+- Widgets in Tkinter  
 
 &nbsp;  
 More details [here](Day28/Day28.md).  
